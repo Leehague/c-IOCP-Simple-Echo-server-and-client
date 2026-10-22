@@ -1,0 +1,32 @@
+# Visual Studio 임시/캐시 폴더
+.vs/
+.vscode/
+
+# 빌드 산출물 및 디렉터리
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# 컴파일 중간 생성 파일
+*.obj
+*.pdb
+*.idb
+*.tlog
+*.log
+*.ilk
+*.exp
+*.pch
+*.res
+
+# 사용자 개인 설정
+*.user
+*.suo
+*.userosv
+*.sln.docstates
+
+# 최종 바이너리 (필요 시 특정 exe만 제외 해제 가능)
+*.exe
+*.dll
